@@ -7,7 +7,7 @@ This tool helps to create a password list which can crack 50% of accounts passwo
 
 ### commands to clone into Wordlist-generator
 
-git clone https://github.com/EngineerRancho/wordlist-generator
+git clone https://github.com/GauravSharma0560/wordlist-generator
 
 cd wordlist-generator
 
